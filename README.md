@@ -18,12 +18,13 @@
 <hr>
 
 ##사용기술
-<p>
+
     - Flutter
     - SpringBoot
     - GoogleCloudPlatform
     - MySQL
-</p>
+    - Swagger
+    - Notion
 
 ##
 <p></p>
