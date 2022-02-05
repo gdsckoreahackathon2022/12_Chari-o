@@ -4,7 +4,7 @@ import 'package:flutter_try/detailPage/FcDetail2.dart';
 import 'package:flutter_try/detailPage/FcDetail3.dart';
 import 'package:flutter_try/detailPage/FcDetail4.dart';
 import 'package:flutter_try/detailPage/FcDetail5.dart';
-import 'package:flutter_try/page1/main.dart';
+import 'package:flutter_try/main.dart';
 
 import '../color.dart';
 import 'package:flutter_try/api.dart';
@@ -32,11 +32,6 @@ class _MyAppState extends State<HomePage>{
             title:Image.asset("assets/chario_logo.png",width:100,height:50),
             //centerTitle: true,
             actions: <Widget>[
-              IconButton(onPressed: () {},
-                icon: Icon(Icons.ac_unit_sharp),),
-              IconButton(onPressed: (){
-
-                }, icon: Icon(Icons.account_balance))
             ],
           ),
           body: ListView(

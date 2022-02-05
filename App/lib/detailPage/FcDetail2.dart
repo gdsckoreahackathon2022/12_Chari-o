@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter_try/color.dart';
-import 'package:flutter_try/page1/main.dart';
+import 'package:flutter_try/main.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_try/api.dart';
 _launchURL(String url) async {
