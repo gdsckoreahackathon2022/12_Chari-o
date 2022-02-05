@@ -1,4 +1,6 @@
 # 12_Chari-o
+https://github.com/gdsckoreahackathon2022/12_Chari-o/tree/main/App/build/app/outputs/apk/release
+
 
 ## Donate to charity
 
