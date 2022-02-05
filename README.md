@@ -17,7 +17,7 @@
 </p>
 <hr>
 
-##사용기술
+## 사용기술
 
     - Flutter
     - SpringBoot
