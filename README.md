@@ -33,3 +33,9 @@
 
 ## 발표 자료
 [해커톤 발표.pdf](https://github.com/gdsckoreahackathon2022/12_Chari-o/files/8007134/default.pdf)
+
+# Contributors
+- [Donghyun Shin] (https://github.com/Canihelpme)
+- [Yeonju Lee]
+- [Sunghyun Cho]
+- [Minseo Kim]
